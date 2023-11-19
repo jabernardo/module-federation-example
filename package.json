@@ -13,5 +13,8 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.9.0",
-  "name": "module-federation-example"
+  "name": "module-federation-example",
+  "dependencies": {
+    "@module-federation/nextjs-mf": "^7.0.8"
+  }
 }
